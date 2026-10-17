@@ -1,0 +1,16 @@
+# Pliki tymczasowe Worda i PowerPointa
+~$*
+*.tmp
+
+# Dane pacjentów nie wchodzą do tego repozytorium w żadnej formie.
+*.xlsx
+*.xls
+*.csv
+*.tsv
+*.jsonl
+*.json
+
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
